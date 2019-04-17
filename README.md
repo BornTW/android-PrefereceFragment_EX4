@@ -4,8 +4,9 @@
 
 共四组设置项 <br>
 In-line preferences <br>
-&nbsp; &nbsp; CheckBoxPreference ialog-based preferences: <br>
-EditTextPreference <br>
+&nbsp; &nbsp; CheckBoxPreference <br>
+Dialog-based preferences: <br>
+&nbsp; &nbsp; EditTextPreference <br>
 &nbsp; &nbsp; ListPreference <br>
 Launch preferences<br>
 &nbsp; &nbsp; PreferenceScreen: 跳转到另一个PreferenceS<br>
