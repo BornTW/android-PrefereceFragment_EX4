@@ -17,7 +17,7 @@ Preference attributes  <br>
 
 ## 界面截图1
 ![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_1.PNG) 
-![图片2](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_2.PNG)  
+![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_2.PNG)  
 
 ## 界面截图2
 ![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_3.PNG)  
