@@ -23,6 +23,14 @@ Preference attributes  <br>
 ![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_3.PNG)  <br>  <br>
 ![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_4.PNG)  <br>  <br>
 
+## 界面截图3
+![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_5.PNG) 
+![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_6.PNG) 
 
+## 界面截图4
+![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_7.PNG) 
+![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_8.PNG) 
 
-
+## 界面截图5
+![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_9.PNG)
+![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_10.PNG)
