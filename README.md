@@ -16,12 +16,12 @@ Preference attributes  <br>
 &nbsp; &nbsp; CheckBox: 子选项，当父选项勾选时呈现  <br>
 
 ## 界面截图1
-![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_1.PNG)  <br>  <br>
-![图片2](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_2.PNG)   <br>
+![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_1.PNG) 
+![图片2](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_2.PNG)  
 
 ## 界面截图2
-![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_3.PNG)  <br>  <br>
-![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_4.PNG)  <br>  <br>
+![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_3.PNG)  
+![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_4.PNG) 
 
 ## 界面截图3
 ![](https://github.com/BornTW/android-PrefereceFragment_EX4/blob/master/Images/android-PrefereceFragment_EX4_5.PNG) 
